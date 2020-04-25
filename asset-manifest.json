@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/samuel-antwi/currency-converter-reactjst/static/css/main.fbb38dc2.chunk.css",
+    "main.js": "/samuel-antwi/currency-converter-reactjst/static/js/main.b651bcfa.chunk.js",
+    "main.js.map": "/samuel-antwi/currency-converter-reactjst/static/js/main.b651bcfa.chunk.js.map",
+    "runtime-main.js": "/samuel-antwi/currency-converter-reactjst/static/js/runtime-main.3ffbb668.js",
+    "runtime-main.js.map": "/samuel-antwi/currency-converter-reactjst/static/js/runtime-main.3ffbb668.js.map",
+    "static/js/2.cc950b21.chunk.js": "/samuel-antwi/currency-converter-reactjst/static/js/2.cc950b21.chunk.js",
+    "static/js/2.cc950b21.chunk.js.map": "/samuel-antwi/currency-converter-reactjst/static/js/2.cc950b21.chunk.js.map",
+    "index.html": "/samuel-antwi/currency-converter-reactjst/index.html",
+    "precache-manifest.81ab56c507529842f3e0685303e3cfac.js": "/samuel-antwi/currency-converter-reactjst/precache-manifest.81ab56c507529842f3e0685303e3cfac.js",
+    "service-worker.js": "/samuel-antwi/currency-converter-reactjst/service-worker.js",
+    "static/css/main.fbb38dc2.chunk.css.map": "/samuel-antwi/currency-converter-reactjst/static/css/main.fbb38dc2.chunk.css.map",
+    "static/js/2.cc950b21.chunk.js.LICENSE.txt": "/samuel-antwi/currency-converter-reactjst/static/js/2.cc950b21.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/samuel-antwi/currency-converter-reactjst/static/media/loading.078aa3f0.gif",
+    "static/media/pound.jpg": "/samuel-antwi/currency-converter-reactjst/static/media/pound.31596473.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffbb668.js",
+    "static/js/2.cc950b21.chunk.js",
+    "static/css/main.fbb38dc2.chunk.css",
+    "static/js/main.b651bcfa.chunk.js"
+  ]
+}
