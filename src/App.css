@@ -1,0 +1,118 @@
+/* Custom CSS */
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+.container {
+  max-width: 500px !important;
+}
+
+.nav-wrapper {
+  background: goldenrod;
+}
+
+.nav-link {
+  font-size: 18px;
+  color: #fff;
+}
+
+.nav-link:hover {
+  background: #876900;
+  color: #fff;
+}
+
+img {
+  width: 100%;
+}
+
+.btn-swap {
+  font-size: 20px;
+  background-color: #876900;
+  color: #fff;
+  width: 100%;
+  border-radius: 50px;
+}
+
+.btn-swap:focus {
+  outline: none;
+  border-color: none;
+}
+
+.btn-swap:hover,
+.btn-submit:hover {
+  background: goldenrod;
+}
+
+.btn-submit {
+  font-size: 20px;
+  width: 100%;
+  background-color: #876900;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.form-control {
+  height: 50px !important;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input:focus {
+  outline: none;
+  border-color: none;
+}
+
+.show-rate {
+  display: flex !important;
+  justify-content: flex-start !important;
+}
+
+.leading {
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.base {
+  color: #876900;
+}
+
+.base-rate {
+  color: #ff0505;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.base-rate-text {
+  color: #f2f2f2;
+  font-size: 18px;
+}
+
+.app-header {
+  color: #f2f2f2;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 30px;
+}
+
+.error {
+  color: #f28a9a;
+}
+
+/* media query */
+@media (max-width: 768px) {
+  form {
+    padding: 0 20px;
+  }
+  .app-header {
+    font-size: 1.2rem;
+  }
+}
